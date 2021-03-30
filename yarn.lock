@@ -2893,6 +2893,14 @@ react-deep-force-update@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/react-deep-force-update/-/react-deep-force-update-1.0.1.tgz#f911b5be1d2a6fe387507dd6e9a767aa2924b4c7"
 
+react-native-android-permissions@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/react-native-android-permissions/-/react-native-android-permissions-0.0.7.tgz#376c60d1a7713b5f88011ff8c8e377beb0a2108b"
+
+react-native-maps@^0.13.1:
+  version "0.13.1"
+  resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.13.1.tgz#ed2a7e62f155a51f43c49742eba5bc313eaf2f1e"
+
 react-native@0.42.3:
   version "0.42.3"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.42.3.tgz#450c8a03a5e3e991a08a426f22776dd8feb80b26"
@@ -3771,8 +3779,8 @@ xmldom@0.1.x:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 yallist@^2.0.0:
   version "2.1.2"
