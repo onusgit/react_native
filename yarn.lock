@@ -2521,8 +2521,8 @@ mkdirp@^0.5.1:
     minimist "0.0.8"
 
 moment@2.x.x:
-  version "2.18.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.18.1.tgz#c36193dd3ce1c2eed2adb7c802dbbc77a81b1c0f"
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
 
 morgan@~1.6.1:
   version "1.6.1"
@@ -2892,6 +2892,14 @@ react-clone-referenced-element@^1.0.1:
 react-deep-force-update@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/react-deep-force-update/-/react-deep-force-update-1.0.1.tgz#f911b5be1d2a6fe387507dd6e9a767aa2924b4c7"
+
+react-native-android-permissions@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/react-native-android-permissions/-/react-native-android-permissions-0.0.7.tgz#376c60d1a7713b5f88011ff8c8e377beb0a2108b"
+
+react-native-maps@^0.13.1:
+  version "0.13.1"
+  resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.13.1.tgz#ed2a7e62f155a51f43c49742eba5bc313eaf2f1e"
 
 react-native@0.42.3:
   version "0.42.3"
